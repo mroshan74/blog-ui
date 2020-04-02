@@ -1,0 +1,18 @@
+1. how many components
+    UserList   
+    PostList
+    UserShow
+    Home
+    App
+
+2. what packages are required
+    axios
+    react-router-dom
+
+3. how many function components & class components
+    2 - functions - Home & App
+    4 - 
+
+4.
+
+5.
